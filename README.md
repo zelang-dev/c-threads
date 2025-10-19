@@ -171,7 +171,7 @@ Add to **CMakeLists.txt**
 find_package(cthreads QUIET)
 FetchContent_Declare(cthreads
  URL https://github.com/zelang-dev/c-threads/archive/refs/tags/1.0.0.zip
- URL_MD5 8e7a1260dc13bf1bd44ad2fba6404436
+ URL_MD5 0f1c66f911f0912aa2a955a486952a8d
 )
 FetchContent_MakeAvailable(cthreads)
 
