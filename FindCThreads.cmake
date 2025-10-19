@@ -108,6 +108,7 @@ find_package_handle_standard_args(cthreads
 )
 
 set(CTHREADS_FOUND ${cthreads_FOUND})
+set(CTHREADS_LIBRARIES ${CTHREADS_LIBRARY})
 
 #-----------------------------------------------------------------------------
 # Provide documented result variables and targets.
