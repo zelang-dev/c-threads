@@ -2,8 +2,8 @@ cmake_minimum_required(VERSION 2.8...3.14)
 
 project(
     cthreads
-    VERSION 4.2.0.0
-    DESCRIPTION "Emulated C11 threads & C11 atomics, and others for cross-platform development."
+    VERSION 1.0.0
+    DESCRIPTION "Emulated C11 threads & C11 atomics, and features for cross-platform development."
     HOMEPAGE_URL "https://github.com/zelang-dev/c-threads"
     LANGUAGES C
 )
